@@ -27,46 +27,46 @@
 
    ## How I did it
 
-  i. Initial Setup and Familiarization:
+i. Initial Setup and Familiarization:
 
--Familiarized myself with SEMrush's functionalities and tools relevant to SEO management.
+  -Familiarized myself with SEMrush's functionalities and tools relevant to SEO management.
 
--Set up SEMrush account and integrated it with the company's digital properties for data synchronization.
+  -Set up SEMrush account and integrated it with the company's digital properties for data synchronization.
 
 ii. SEO Audits and Site Analysis:
 
--Conducted thorough SEO audits using SEMrush to assess the current status of website performance.
+  -Conducted thorough SEO audits using SEMrush to assess the current status of website performance.
 
--Identified technical SEO issues such as crawl errors, duplicate content, and site speed issues.
+  -Identified technical SEO issues such as crawl errors, duplicate content, and site speed issues.
 
--Utilized SEMrush's site audit tool to generate detailed reports and prioritize optimization tasks.
+  -Utilized SEMrush's site audit tool to generate detailed reports and prioritize optimization tasks.
 
 iii. Keyword Research and Analysis:
 
--Researched and analyzed relevant keywords using SEMrush's keyword research tool.
+  -Researched and analyzed relevant keywords using SEMrush's keyword research tool.
 
--Tracked keyword rankings and monitored fluctuations to identify opportunities and threats.
+  -Tracked keyword rankings and monitored fluctuations to identify opportunities and threats.
 
--Implemented keyword strategies based on search volume, competition level, and relevance to business goals.
+  -Implemented keyword strategies based on search volume, competition level, and relevance to business goals.
 
 iv. Competitor Analysis and Strategy Development:
 
--Analyzed competitors' SEO strategies and performance metrics using SEMrush's competitive analysis tools.
+  -Analyzed competitors' SEO strategies and performance metrics using SEMrush's competitive analysis tools.
 
--Derived insights to develop competitive SEO strategies aimed at improving search engine visibility.
+  -Derived insights to develop competitive SEO strategies aimed at improving search engine visibility.
 
--Implemented on-page and off-page optimization tactics to enhance website authority and rankings.
+  -Implemented on-page and off-page optimization tactics to enhance website authority and rankings.
 
 v. Performance Tracking and Optimization:
 
--Tracked and reported on key SEO performance metrics such as organic traffic, keyword rankings, and backlink profile.
+  -Tracked and reported on key SEO performance metrics such as organic traffic, keyword rankings, and backlink profile.
 
--Utilized SEMrush's analytics tools to measure the effectiveness of implemented strategies.
+  -Utilized SEMrush's analytics tools to measure the effectiveness of implemented strategies.
 
--Made data-driven optimizations to improve SEO performance over time.
+  -Made data-driven optimizations to improve SEO performance over time.
 
 
-Here are some screenshots of my task:-
+**Here are some screenshots of my task**:-
 
 ![Screenshot (217)](https://github.com/user-attachments/assets/443a59e3-25d7-4f77-9a9e-fe9153882126)
 ![Screenshot (218)](https://github.com/user-attachments/assets/7b3e0a2c-a63b-4bcb-9bba-dfee026a82a6)
@@ -81,8 +81,11 @@ Here are some screenshots of my task:-
 ## Experience I Gained from this Task:-
 
 **Technical Skills**: Developed proficiency in using SEMrush tools for SEO audits, keyword research, and competitor analysis.
+
 **Strategic Insights**: Enhanced understanding of SEO best practices and strategies for improving search engine visibility.
+
 **Analytical Abilities**: Improved skills in interpreting SEO data and metrics to drive actionable insights and optimizations.
+
 **Professional Development**: Strengthened project management skills through planning and executing SEO initiatives, collaborating with team members, and delivering measurable results.
 
 
